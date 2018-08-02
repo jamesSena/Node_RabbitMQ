@@ -1,0 +1,14 @@
+{
+  "name": "jamessonnodemq",
+  "version": "1.0.0",
+  "description": "Primeiro programa node com rabbitmq",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamesson Sales de Sena",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
